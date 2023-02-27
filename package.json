@@ -1,0 +1,27 @@
+{
+  "name": "nintendo-paypal-15",
+  "version": "1.0.0",
+  "description": "ニンテンドーカタログチケット,任亏券 paypal活动，半自动抢脚本",
+  "main": "index.js",
+  "keywords": [
+    "paypal",
+    "nintendo",
+    "Full reduction activity",
+    "任天堂",
+    "任亏券",
+    "paypal满减活动自动脚本"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KAWATAAAAAA/Nintendo-Paypal-15.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KAWATAAAAAA/Nintendo-Paypal-15/issues"
+  },
+  "homepage": "https://github.com/KAWATAAAAAA/Nintendo-Paypal-15#readme"
+}
