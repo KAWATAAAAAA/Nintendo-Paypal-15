@@ -54,7 +54,7 @@ async function getPaypalCanuse(next){
 			if (res.percent > 30) {
 				/* 点支付按钮 */
 				next()
-			} else {
+			} else if(res.percent > 1) {
 				request()
 			}
 		})
